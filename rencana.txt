@@ -1,4 +1,5 @@
 belajar git dan github
 membuat aplikasi MVC
-- Laravel
+belajar framework php
+- ci
 
